@@ -7,6 +7,7 @@
 - [Docs](https://docs.sequence.xyz)
 - [Sequence Builder](https://sequence.build)
 - [YouTube](https://www.youtube.com/@0xSequence)
+- [Sequence CLI](https://github.com/0xsequence/sequence-cli) `npx sequence-cli`
 
 ## SDKs
 
