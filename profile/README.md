@@ -14,10 +14,10 @@
 | ----- | --------------------------------------------------- | ---------- | ---- |
 | ![TS](https://skillicons.dev/icons?i=ts) | [sequence.js](https://github.com/0xsequence/sequence.js) | [![npm version](https://badge.fury.io/js/0xsequence.svg)](https://badge.fury.io/js/0xsequence) | [Docs](https://docs.sequence.xyz/sdk/typescript/guides/overview)   | 
 | ![R](https://skillicons.dev/icons?i=react) | [Sequence Kit](https://github.com/0xsequence/kit/) | [![npm version](https://badge.fury.io/js/@0xsequence%2Fkit.svg)](https://badge.fury.io/js/@0xsequence%2Fkit) | [Docs](https://docs.sequence.xyz/solutions/wallets/sequence-kit/overview) | 
-| ![RN](https://skillicons.dev/icons?i=react) | [React Native](https://github.com/0xsequence/demo-waas-react-native) | [![npm version](https://badge.fury.io/js/0xsequence.svg)](https://badge.fury.io/js/0xsequence)| [Docs](https://docs.sequence.xyz/sdk/mobile) |
 | ![Go](https://skillicons.dev/icons?i=golang) | [Go](https://github.com/0xsequence/go-sequence/) | [![Github Release](https://img.shields.io/github/v/release/0xsequence/go-sequence?label=github&color=4ec820)](https://github.com/0xsequence/go-sequence/releases) | [Docs](https://docs.sequence.xyz/sdk/go/overview) |
 | ![U](https://skillicons.dev/icons?i=unity) | [Unity](https://github.com/0xsequence/sequence-unity/) | [![Marketplace Release](https://img.shields.io/github/v/release/0xsequence/sequence-unity?label=plugin&color=4ec820)](https://assetstore.unity.com/packages/decentralization/infrastructure/sequence-sdk-for-unity-286847) | [View Latest](https://github.com/0xsequence/sequence-unity/releases/latest) | [Docs](https://docs.sequence.xyz/sdk/unity/overview) |
 | ![UR](https://skillicons.dev/icons?i=unreal) | [Unreal Engine](https://github.com/0xsequence/sequence-unreal/) | [![Marketplace Release](https://img.shields.io/github/v/release/0xsequence/sequence-unreal?label=plugin&color=4ec820)](https://www.fab.com/listings/6a70ee67-f19c-489b-8419-f51762cdd7c6) | [Docs](https://docs.sequence.xyz/sdk/unreal/introduction) |
+| ![RN](https://skillicons.dev/icons?i=react) | [React Native](https://github.com/0xsequence/demo-waas-react-native) | [![npm version](https://badge.fury.io/js/0xsequence.svg)](https://badge.fury.io/js/0xsequence)| [Docs](https://docs.sequence.xyz/sdk/mobile) |
 
 ## Boilerplates & Demos
 
