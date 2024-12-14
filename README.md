@@ -1,3 +1,3 @@
 # Sequence
 
-Coming soon...
+0xsequence Github profile

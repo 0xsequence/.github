@@ -1,8 +1,25 @@
-## Hi there 👋
+![Sequence: Build the best web3 games and experiences](sequence-header.jpg)
 
+# Sequence
 
-### Boilerplates
+### All-in-one development platform for web3 games
 
+- [Docs](https://docs.sequence.xyz)
+- [Sequence Builder](https://sequence.build)
+- [YouTube](https://www.youtube.com/@0xSequence)
+
+## SDKs
+
+| | Platform                                          | Version | Documentation | 
+| ----- | --------------------------------------------------- | ---------- | ---- |
+| ![TS](https://skillicons.dev/icons?i=ts) | [sequence.js](https://github.com/0xsequence/sequence.js) | [![npm version](https://badge.fury.io/js/0xsequence.svg)](https://badge.fury.io/js/0xsequence) | [Docs](https://docs.sequence.xyz/sdk/typescript/guides/overview)   | 
+| ![R](https://skillicons.dev/icons?i=react) | [Sequence Kit](https://github.com/0xsequence/kit/) | [![npm version](https://badge.fury.io/js/@0xsequence%2Fkit.svg)](https://badge.fury.io/js/@0xsequence%2Fkit) | [Docs](https://docs.sequence.xyz/solutions/wallets/sequence-kit/overview) | 
+| ![RN](https://skillicons.dev/icons?i=react) | [React Native](https://github.com/0xsequence/demo-waas-react-native) | [![npm version](https://badge.fury.io/js/0xsequence)](https://badge.fury.io/js/0xsequence)| [Docs](https://docs.sequence.xyz/sdk/mobile) |
+| ![Go](https://skillicons.dev/icons?i=golang) | [Go](https://github.com/0xsequence/go-sequence/) | [![Github Release](https://img.shields.io/github/v/release/0xsequence/go-sequence?label=github&color=4ec820)](https://github.com/0xsequence/go-sequence/releases) | [Docs](https://docs.sequence.xyz/sdk/go/overview) |
+| ![U](https://skillicons.dev/icons?i=unity) | [![Marketplace Release](https://img.shields.io/github/v/release/0xsequence/sequence-unity?label=marketplace%20plugin&color=4ec820)](https://assetstore.unity.com/packages/decentralization/infrastructure/sequence-sdk-for-unity-286847) | [View Latest](https://github.com/0xsequence/sequence-unity/releases/latest) | [Docs](https://docs.sequence.xyz/sdk/unity/overview) |
+| ![UR](https://skillicons.dev/icons?i=unreal) | [Unreal Engine](https://github.com/0xsequence/sequence-unreal/) | [![Marketplace Release](https://img.shields.io/github/v/release/0xsequence/sequence-unreal?label=marketplace%20plugin&color=4ec820)](https://www.fab.com/listings/6a70ee67-f19c-489b-8419-f51762cdd7c6) | [Docs](https://docs.sequence.xyz/sdk/unreal/introduction) |
+
+## Boilerplates & Demos
 
 | Boilerplate | Description | 
 | ----------- | ----------- |
@@ -30,13 +47,3 @@
 | [telegram-metamask-react](https://github.com/0xsequence-demos/telegram-metamask-react-boilerplate) | A demo that demonstrates how to build a telegram bot and webapp, which uses [Metamask](https://metamask.io) with React. |
 | [telegram-sequencejs-react](https://github.com/0xsequence-demos/telegram-sequencejs-react-boilerplate) | Starter Sequence Embedded Wallet boilerplate that uses [Sequence Kit](https://github.com/0xsequence/kit) with React. |
 | [universal-wallet-react](https://github.com/0xsequence-demos/universal-wallet-react-boilerplate) | Starter Sequence Universal Wallet boilerplate that uses [Sequence Universal Wallet](https://docs.sequence.xyz/solutions/wallets/universal-wallet/overview) with React. |
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
