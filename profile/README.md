@@ -1,8 +1,6 @@
-![Sequence: Build the best web3 games and experiences](sequence-header.jpg)
-
 # Sequence
 
-### All-in-one development platform for web3 games
+### The complete web3 development platform for chains, games, and apps
 
 - [Docs](https://docs.sequence.xyz)
 - [Sequence Builder](https://sequence.build)
