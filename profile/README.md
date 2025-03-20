@@ -4,14 +4,14 @@
 
 - [Docs](https://docs.sequence.xyz)
 - [Sequence Builder](https://sequence.build)
-- [YouTube](https://www.youtube.com/@0xSequence)
+- [YouTube](https://www.youtube.com/@0xsequence)
 - [Sequence CLI](https://github.com/0xsequence/sequence-cli) `npx sequence-cli`
 
 ## SDKs
 
 | | Platform                                          | Version | Documentation | 
 | ----- | --------------------------------------------------- | ---------- | ---- |
-| ![R](https://skillicons.dev/icons?i=react) | [Sequence Web SDK](https://github.com/0xsequence/web-sdk/) | [![npm version](https://badge.fury.io/js/@0xsequence%2Fconnect.svg)](https://badge.fury.io/js/@0xsequence%2Fkit) | [Docs](https://docs.sequence.xyz/solutions/wallets/sequence-kit/overview) | 
+| ![R](https://skillicons.dev/icons?i=react) | [Sequence Web SDK](https://github.com/0xsequence/web-sdk/) | [![npm version](https://badge.fury.io/js/@0xsequence%2Fconnect.svg)](https://badge.fury.io/js/@0xsequence%2Fconnect) | [Docs](https://docs.sequence.xyz/solutions/wallets/sequence-kit/overview) | 
 | ![TS](https://skillicons.dev/icons?i=ts) | [Sequence Node.js SDK](https://github.com/0xsequence/sequence.js) | [![npm version](https://badge.fury.io/js/0xsequence.svg)](https://badge.fury.io/js/0xsequence) | [Docs](https://docs.sequence.xyz/sdk/typescript/guides/overview)   | 
 | ![Go](https://skillicons.dev/icons?i=golang) | [Sequence Go SDK](https://github.com/0xsequence/go-sequence/) | [![Github Release](https://img.shields.io/github/v/release/0xsequence/go-sequence?label=github&color=4ec820)](https://github.com/0xsequence/go-sequence/releases) | [Docs](https://docs.sequence.xyz/sdk/go/overview) |
 | ![U](https://skillicons.dev/icons?i=unity) | [Sequence Unity SDK](https://github.com/0xsequence/sequence-unity/) | [![Marketplace Release](https://img.shields.io/github/v/release/0xsequence/sequence-unity?label=plugin&color=4ec820)](https://assetstore.unity.com/packages/decentralization/infrastructure/sequence-sdk-for-unity-286847) | [View Latest](https://github.com/0xsequence/sequence-unity/releases/latest) | [Docs](https://docs.sequence.xyz/sdk/unity/overview) |
