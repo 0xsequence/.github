@@ -27,7 +27,7 @@
 | [kit-embedded-wallet-react](https://github.com/0xsequence-demos/kit-embedded-wallet-react-boilerplate) | Starter Sequence Embedded Wallet boilerplate that uses [Sequence Kit](https://github.com/0xsequence/kit) with React. |
 | [kit-embedded-wallet-nextjs](https://github.com/0xsequence-demos/kit-embedded-wallet-nextjs-boilerplate) | Starter Sequence Embedded Wallet boilerplate that uses [Sequence Kit](https://github.com/0xsequence/kit) with Nextjs. |
 | [telegram-kit-embedded-wallet-react](https://github.com/0xsequence-demos/telegram-kit-embedded-wallet-react-boilerplate) | Starter Sequence Embedded Wallet boilerplate that uses [Sequence Kit](https://github.com/0xsequence/kit) with React. |
-| [marketplace-boilerplate](https://github.com/0xsequence-demos/marketplace-boilerplate) | A starter White-label Marketplace boilerplate, powered by Sequence. |
+| [marketplace-boilerplate](https://github.com/0xsequence/marketplace-boilerplate) | A starter White-label Marketplace boilerplate, powered by Sequence. |
 | [sequence-pay](https://github.com/0xsequence-demos/sequence-pay-boilerplate) | Starter boilerplate for Sequence Pay, using Sardine and ERC721 Sale Contracts |
 | [primary-drop-sale-721](https://github.com/0xsequence-demos/primary-drop-sale-721-boilerplate) | Starter Sequence boilerplate demonstrating how to perform primary sales of 721 NFTs using Sequence. |
 | [primary-sale-1155](https://github.com/0xsequence-demos/primary-sale-1155-boilerplate) | Starter Sequence boilerplate demonstrating how to perform primary sales of 1155 NFTs using Sequence. |
