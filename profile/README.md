@@ -11,7 +11,7 @@
 
 | | Platform                                          | Version | Documentation | 
 | ----- | --------------------------------------------------- | ---------- | ---- |
-| ![R](https://skillicons.dev/icons?i=react) | [Sequence Web SDK](https://github.com/0xsequence/web-sdk/) | [![npm version](https://badge.fury.io/js/@0xsequence%2Fconnect.svg)](https://badge.fury.io/js/@0xsequence%2Fconnect) | [Docs](https://docs.sequence.xyz/solutions/wallets/sequence-kit/overview) | 
+| ![R](https://skillicons.dev/icons?i=react) | [Sequence Web SDK](https://github.com/0xsequence/web-sdk/) | [![npm version](https://badge.fury.io/js/@0xsequence%2Fconnect.svg)](https://badge.fury.io/js/@0xsequence%2Fconnect) | [Docs](https://docs.sequence.xyz/sdk/web/overview) | 
 | ![TS](https://skillicons.dev/icons?i=ts) | [Sequence Node.js SDK](https://github.com/0xsequence/sequence.js) | [![npm version](https://badge.fury.io/js/0xsequence.svg)](https://badge.fury.io/js/0xsequence) | [Docs](https://docs.sequence.xyz/sdk/typescript/guides/overview)   | 
 | ![Go](https://skillicons.dev/icons?i=golang) | [Sequence Go SDK](https://github.com/0xsequence/go-sequence/) | [![Github Release](https://img.shields.io/github/v/release/0xsequence/go-sequence?label=github&color=4ec820)](https://github.com/0xsequence/go-sequence/releases) | [Docs](https://docs.sequence.xyz/sdk/go/overview) |
 | ![U](https://skillicons.dev/icons?i=unity) | [Sequence Unity SDK](https://github.com/0xsequence/sequence-unity/) | [![Marketplace Release](https://img.shields.io/github/v/release/0xsequence/sequence-unity?label=plugin&color=4ec820)](https://assetstore.unity.com/packages/decentralization/infrastructure/sequence-sdk-for-unity-286847) | [View Latest](https://github.com/0xsequence/sequence-unity/releases/latest) | [Docs](https://docs.sequence.xyz/sdk/unity/overview) |
@@ -23,9 +23,8 @@
 
 | Boilerplate | Description | 
 | ----------- | ----------- |
-| [kit-embedded-wallet-react](https://github.com/0xsequence-demos/kit-embedded-wallet-react-boilerplate) | Starter Sequence Embedded Wallet boilerplate that uses [Sequence Kit](https://github.com/0xsequence/kit) with React. |
-| [kit-embedded-wallet-nextjs](https://github.com/0xsequence-demos/kit-embedded-wallet-nextjs-boilerplate) | Starter Sequence Embedded Wallet boilerplate that uses [Sequence Kit](https://github.com/0xsequence/kit) with Nextjs. |
-| [telegram-kit-embedded-wallet-react](https://github.com/0xsequence-demos/telegram-kit-embedded-wallet-react-boilerplate) | Starter Sequence Embedded Wallet boilerplate that uses [Sequence Kit](https://github.com/0xsequence/kit) with React. |
+| [websdk-embedded-wallet-react](https://github.com/0xsequence-demos/websdk-embedded-wallet-react-boilerplate) | Starter Sequence Embedded Wallet boilerplate that uses [Sequence WebSDK](https://github.com/0xsequence/web-sdk) with React. |
+| [websdk-embedded-wallet-nextjs](https://github.com/0xsequence-demos/websdk-embedded-wallet-nextjs-boilerplate) | Starter Sequence Embedded Wallet boilerplate that uses [Sequence WebSDK](https://github.com/0xsequence/web-sdk) with Nextjs. |
 | [marketplace-boilerplate](https://github.com/0xsequence/marketplace-boilerplate) | A starter White-label Marketplace boilerplate, powered by Sequence. |
 | [sequence-pay](https://github.com/0xsequence-demos/sequence-pay-boilerplate) | Starter boilerplate for Sequence Pay, using Sardine and ERC721 Sale Contracts |
 | [primary-drop-sale-721](https://github.com/0xsequence-demos/primary-drop-sale-721-boilerplate) | Starter Sequence boilerplate demonstrating how to perform primary sales of 721 NFTs using Sequence. |
@@ -37,11 +36,7 @@
 | [embedded-wallet-playfab-react](https://github.com/0xsequence-demos/embedded-wallet-playfab-react-boilerplate) | This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. |
 | [google-embedded-wallet-react](https://github.com/0xsequence-demos/google-embedded-wallet-react-boilerplate) | Starter Sequence Embedded Wallet boilerplate that uses [Sequence Embedded Wallet](https://docs.sequence.xyz/solutions/wallets/embedded-wallet/overview) with React. |
 | [ingame-marketplace](https://github.com/0xsequence-demos/ingame-marketplace-boilerplate) | Starter Sequence boilerplate demonstrating how to build an in-game NFT marketplate using Sequence. |
-| [kit-universal-wallet-nextjs](https://github.com/0xsequence-demos/kit-universal-wallet-nextjs-boilerplate) | [no suitable description or readme.MD found] |
-| [kit-universal-wallet-react](https://github.com/0xsequence-demos/kit-universal-wallet-react-boilerplate) | A starter boilerplate to demonstrate Sequence Kit with Sequence Universal Wallet. |
 | [metamask-react](https://github.com/0xsequence-demos/metamask-react-boilerplate) | Starter boilerplate that uses [Metamask](https://metamask.io) with React. |
 | [offchain-sales](https://github.com/0xsequence-demos/offchain-sales-boilerplate) | Starter Sequence boilerplate demonstrating how to sell off-chain digital assets for cryptocurrency, using Sequence. |
 | [stytch-embedded-wallet-react](https://github.com/0xsequence-demos/stytch-embedded-wallet-react-boilerplate) | Starter Stytch based Authentication for a Sequence Embedded Wallet boilerplate that uses [Sequence Embedded Wallet](https://docs.sequence.xyz/solutions/wallets/embedded-wallet/overview) with React. |
-| [telegram-metamask-react](https://github.com/0xsequence-demos/telegram-metamask-react-boilerplate) | A demo that demonstrates how to build a telegram bot and webapp, which uses [Metamask](https://metamask.io) with React. |
-| [telegram-sequencejs-react](https://github.com/0xsequence-demos/telegram-sequencejs-react-boilerplate) | Starter Sequence Embedded Wallet boilerplate that uses [Sequence Kit](https://github.com/0xsequence/kit) with React. |
 | [universal-wallet-react](https://github.com/0xsequence-demos/universal-wallet-react-boilerplate) | Starter Sequence Universal Wallet boilerplate that uses [Sequence Universal Wallet](https://docs.sequence.xyz/solutions/wallets/universal-wallet/overview) with React. |
